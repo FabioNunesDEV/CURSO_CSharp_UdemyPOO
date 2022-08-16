@@ -34,7 +34,5 @@ namespace Entities
 
             return Salario.CompareTo(outro.Salario);
         }
-
-
     }
 }
