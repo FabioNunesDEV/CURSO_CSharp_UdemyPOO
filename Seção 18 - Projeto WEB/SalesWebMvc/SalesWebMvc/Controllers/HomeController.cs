@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc.Models;
+using SalesWebMvc.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -20,7 +21,7 @@ namespace SalesWebMvc.Controllers
             ViewData["Message"] = "Salles Web MVC App from C3 Course";
             ViewData["Professor"] = "Nelio Alves";
 
-            return NotFound();
+            return View();
         }
 
         public IActionResult Contact()
