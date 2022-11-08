@@ -27,3 +27,7 @@ Exercicios propostos no curso
 - Seção 17 - Expressões lambda, delegates, LINQ
 - Seção 18 - Projeto: Sistema Web com ASP.NET Core MVC e Entity Framework
 - Seção 19 - Seção Bônus
+
+Certificado conclusão do curso<br>
+
+<img align="center" alt="Dev-HTML" height="500em" src="https://github.com/FabioNunesDEV/CURSO_CSharp_UdemyPOO/blob/main/Certificado/ImgCertificado_ProgramandoCSharp.PNG">
